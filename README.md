@@ -63,6 +63,8 @@ Its a lot adapted from multiple pieces of example code, including the examples i
 
 
 **Zine**
+<img width="558" height="793" alt="piezo buzzer orchestra zine" src="https://github.com/user-attachments/assets/42bfef89-58d6-4ae9-8bbb-7a1e7bd94a17" />
+
 [piezo buzzer orchestra zine.pdf](https://github.com/user-attachments/files/28234114/piezo.buzzer.orchestra.zine.pdf)
 
 
