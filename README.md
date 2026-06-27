@@ -65,8 +65,7 @@ Its a lot adapted from multiple pieces of example code, including the examples i
 **Zine**
 <img width="558" height="793" alt="piezo buzzer orchestra zine (1)" src="https://github.com/user-attachments/assets/b78f765a-7a92-4a35-ba70-383e5241074c" />
 
+<img width="1024" height="1536" alt="Piezo Buzzer Orchestra Zine (2)" src="https://github.com/user-attachments/assets/c1a3ccdd-77a9-4c9b-8c48-c59b98dd14ff" />
 
-
-[piezo buzzer orchestra zine.pdf](https://github.com/user-attachments/files/28234114/piezo.buzzer.orchestra.zine.pdf)
 
 
